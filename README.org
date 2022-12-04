@@ -1,0 +1,4 @@
+* UTCS 2011
+The solutions for the 2011 University of Texas Invitational programming contest.
+** License
+[[file:LICENSE][GNU General Public License Version 3]]
